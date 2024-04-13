@@ -1,4 +1,4 @@
-# Welcome to Nada Zayed's GitHub Profile! 👋
+# Welcome to [Nada Zayed]'s GitHub Profile! 👋
 
 Hi there! I'm Nada, a passionate student of computer engineering at Alexandria University, taking a minor in AI. I have a strong interest in Machine Learning, Neural Networks, Recurrent Neural Networks (RNN), and Natural Language Processing (NLP). I've also gained practical experience through internships in the AI and mobile development fields.
 
